@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm @tamm!
 
-<!--
-**tamm/tamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End focused software engineer, who loves to make people feel good when they click buttons on the web!
 
-Here are some ideas to get you started:
+You can find my [GitHub Pages blog at tamm.in](https://tamm.in/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+  - A UI transition journey at propertyme.com
+  - My garden
+  - My partner's website at [nickyrollings.com](https://www.nickyrollings.com/)
+
+- 💬 Ask me about mentorship, speaking at events or 
+
+- 📫 How to reach me:
+  - [tamm.in](https://tamm.in),
+  - [@tamm on GitHub](https://github.com/tamm/),
+  - or [@tigresstamm on LinkedIn](https://www.linkedin.com/in/tigresstamm/)
+
+- 😄 [Pronouns: she/her](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743)
+
+- ⚡ Fun facts:
+  - Swede living in Australia
+  - I sound more like I'm from the US
